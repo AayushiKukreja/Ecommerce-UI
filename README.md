@@ -1,1 +1,1 @@
-<h1>Amazon Clone</h1>
+<h1>Ecommerce</h1>
